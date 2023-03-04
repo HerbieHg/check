@@ -3,7 +3,7 @@ import telebot
 import requests
 
 #Change TOKEN for your Bot token given by @BotFather
-bot = telebot.TeleBot("TOKEN")
+bot = telebot.TeleBot("5994663587:AAH2uyLpe_S40fPd1hSrp4-VEnlekNHwxE4")
 
 #Start command
 @bot.message_handler(commands=['start', 'help'])
